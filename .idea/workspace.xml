@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bf3192c-c03f-43c1-b457-2d440f6d2516" name="Changes" comment="Add ArrayMethod.kt&#10;Add ArrayPrimitive.kt&#10;Add TemplateArray.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array2Dimensi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayMultiDimensi.kt" afterDir="false" />
+    <list default="true" id="2bf3192c-c03f-43c1-b457-2d440f6d2516" name="Changes" comment="Add Map.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ranges.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,37 +43,37 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.CollectionsKt">
-    <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
+  <component name="RunManager" selected="Kotlin.RangesKt">
+    <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayMethodKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayMethodKt" />
+    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayMultiDimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayMultiDimensiKt" />
+    <configuration name="MutableListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MutableListOfKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayPrimitiveKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayPrimitiveKt" />
+    <configuration name="RangesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RangesKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionsKt" />
+    <configuration name="SetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.CollectionsKt" />
-        <item itemvalue="Kotlin.ArrayMultiDimensiKt" />
-        <item itemvalue="Kotlin.Array2DimensiKt" />
-        <item itemvalue="Kotlin.ArrayMethodKt" />
-        <item itemvalue="Kotlin.ArrayPrimitiveKt" />
+        <item itemvalue="Kotlin.RangesKt" />
+        <item itemvalue="Kotlin.MapKt" />
+        <item itemvalue="Kotlin.SetKt" />
+        <item itemvalue="Kotlin.ArrayListOfKt" />
+        <item itemvalue="Kotlin.MutableListOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -113,13 +112,53 @@
       <option name="project" value="LOCAL" />
       <updated>1725874276138</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Array2Dimensi.kt&#10;Add ArrayMultiDimensi.kt&#10;Add Collections.kt">
+      <created>1725874915095</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725874915095</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add ListOf.kt&#10;Add mutableListOf.kt">
+      <created>1725875875606</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725875875606</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add ArrayListOf.kt">
+      <created>1725876251428</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725876251428</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Set.kt">
+      <created>1725876746160</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725876746160</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add Map.kt">
+      <created>1725878461489</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725878461489</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Array.kt" />
     <MESSAGE value="Add ArrayMethod.kt&#10;Add ArrayPrimitive.kt" />
     <MESSAGE value="Add ArrayMethod.kt&#10;Add ArrayPrimitive.kt&#10;Add TemplateArray.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ArrayMethod.kt&#10;Add ArrayPrimitive.kt&#10;Add TemplateArray.kt" />
+    <MESSAGE value="Add Array2Dimensi.kt&#10;Add ArrayMultiDimensi.kt&#10;Add Collections.kt" />
+    <MESSAGE value="Add ListOf.kt&#10;Add mutableListOf.kt" />
+    <MESSAGE value="Add ArrayListOf.kt" />
+    <MESSAGE value="Add Set.kt" />
+    <MESSAGE value="Add Map.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Map.kt" />
   </component>
 </project>
