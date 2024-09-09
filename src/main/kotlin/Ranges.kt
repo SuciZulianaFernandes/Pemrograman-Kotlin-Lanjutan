@@ -5,7 +5,7 @@ fun main(args: Array<String>) {
         print(j) // prints "1234"
     println()
 
-    if (i in 1..0 ) {
+    if (i in 1..10 ) {
         println("we found your number --"+i)
     }
 }
