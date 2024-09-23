@@ -1,5 +1,4 @@
 import java.awt.Choice
-
 fun main(args: Array<String>) {
     println("Welcome to our calculator")
     println("Enter the first number: ")

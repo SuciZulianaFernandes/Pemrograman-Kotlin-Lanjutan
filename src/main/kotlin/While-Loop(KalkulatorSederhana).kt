@@ -1,4 +1,5 @@
 fun main(args: Array<String>) {
+    println("Welcome to our calculator")
     var goOn = "yes"
     while (goOn == "yes"){
         println("Enter the first number")
